@@ -1,7 +1,15 @@
 TOKEN = '5573055516:AAHjXEN4b6tQ3zz52u4jknkn-Fvr_xcd8Vs'
 
 keys = {
-    'биткоин': 'BTC',
-    'эфириум': 'ETH',
-    'доллар': 'USD',
+    'Dollar': 'USD',
+    'Bitcoin': 'BTC',
+    'Etherium': 'ETH',
+    'BUSD': 'BUSD',
+    'Tether': 'USDT',
+    'XRP': 'XRP',
+    'Chiliz': 'CHZ',
+    'Binance Coin': 'BNB',
+    'dogecoin': 'DOGE',
+    'Polygon': 'MATIC',
+    'Solana': 'SOL',
 }
